@@ -1,0 +1,8 @@
+F:\Visual\Diseño de interfaces\DocargestSeguros\ControlesDocarGest\bin\Debug\ControlesDocarGest.dll
+F:\Visual\Diseño de interfaces\DocargestSeguros\ControlesDocarGest\bin\Debug\ControlesDocarGest.pdb
+F:\Visual\Diseño de interfaces\DocargestSeguros\ControlesDocarGest\obj\Debug\ControlesDocarGest.csproj.AssemblyReference.cache
+F:\Visual\Diseño de interfaces\DocargestSeguros\ControlesDocarGest\obj\Debug\ControlesDocarGest.TextBoxM.resources
+F:\Visual\Diseño de interfaces\DocargestSeguros\ControlesDocarGest\obj\Debug\ControlesDocarGest.csproj.GenerateResource.cache
+F:\Visual\Diseño de interfaces\DocargestSeguros\ControlesDocarGest\obj\Debug\ControlesDocarGest.csproj.CoreCompileInputs.cache
+F:\Visual\Diseño de interfaces\DocargestSeguros\ControlesDocarGest\obj\Debug\ControlesDocarGest.dll
+F:\Visual\Diseño de interfaces\DocargestSeguros\ControlesDocarGest\obj\Debug\ControlesDocarGest.pdb
